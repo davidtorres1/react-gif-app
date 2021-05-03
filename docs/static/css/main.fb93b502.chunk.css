@@ -1,0 +1,2 @@
+*{font-family:Helvetica,Arial,sans-serif;box-sizing:border-box}:after,:before{box-sizing:inherit}:root{--animate-delay:.5s}body{padding:60px}input{width:100%;font-size:1.2rem;padding:.3rem;color:rgba(0,0,0,.5)}input:focus{color:#000}.card{align-content:center;border:1px solid grey;border-radius:6px;margin:0 10px 10px 0;overflow:hidden;min-width:500px;max-height:30vh}.gifGrid{display:flex;overflow-x:scroll}.card p{text-align:center;height:20%}.card img{height:80%;width:100%}
+/*# sourceMappingURL=main.fb93b502.chunk.css.map */
